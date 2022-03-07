@@ -2,6 +2,6 @@
 
 echo $_SERVER["SERVER_NAME"];
 
-echo highlight_file("index.php");
+echo show_source("index.php");
 
 ?> 
